@@ -1,6 +1,6 @@
 def display(name):
     if(name):
-        print("Hello",name,"From github")
+        print("Hello from github to",name)
     else:
         print("No name found")
 name=input("Enter name: ")
