@@ -1,6 +1,6 @@
 def display(name):
     if(name):
-        print("Hello ",name,"from bob branch side config.py")
+        print("Hello to the ",name,"from bob branch side config.py")
     else:
         print("No name found")
 name=input("Enter name: ")
